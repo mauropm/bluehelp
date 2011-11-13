@@ -1,0 +1,11 @@
+Bluehelp
+
+DEPENDENCIES
+
+- PHP5.x
+- Get the SDK from bluevia's page: https://bluevia.com/en/knowledge/sdks.PHP
+- Install: pear install HTTP_OAuth-0.1.10 HTTP_Request2-0.5.2
+
+QUESTIONS
+
+- mauropm@gmail.com
